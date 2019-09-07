@@ -1,0 +1,227 @@
+.row-image {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+.row-titlte {
+    display:table-cell;
+    margin-top: 0;
+    padding:25px;
+    vertical-align:top;
+    width:1900px;
+    height: 413px;
+    background-color: #95959585;
+}
+.mother_box {
+    display:flex;
+    justify-content: space-evenly;
+    background-color:white;
+    background-image: url(mask.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 1500px;
+    height: 600px;
+    /* margin-top:230px; */
+}
+.font-style {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    
+}
+.link_display {
+    color:black;
+    font: bold;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mother_box1 {
+    display:flex;
+    justify-content: space-evenly;
+    background-color:white;
+    background-image: url(chest.jpg);
+    background-size: 1500px;
+    height: 600px;
+    
+    
+}
+#link_display1 {
+    color:lightblue;
+    font: bold;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}     
+.mother_of_motherbox {
+    /* display: flex;
+    flex-direction: column; */
+    width: 100%;
+    margin:auto;
+    /* height: 100%; */
+    /* justify-content: space-around; */
+    
+    
+}
+.mother_box2 {
+    display:flex;
+    justify-content: space-evenly;
+    background-color:white;
+
+    background-image: url(form_body.png);
+    background-size: 1500px;
+    height: 600px;
+}
+.mother_box3 {
+    display:flex;
+    justify-content: space-evenly;
+    background-color:white;
+   
+    margin-bottom: 120px;
+    background-image: url(Webp.net-resizeimage.jpg);
+    background-size: 1500px;
+    height: 600px;
+    align-content: center;
+}
+
+.main_footer {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    
+    
+}
+
+#header-image {
+    box-shadow: auto
+}
+.bg-image {
+    background:url(https://i.annihil.us/u/prod/marvel/i/mg/0/04/53dfac6a9ff85/clean.jpg);
+
+}
+.resize-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.dp-table-cell {
+    display: table-cell;
+    
+}
+#text-align {
+    text-align: center;
+    display: flex;
+    justify-content:center;
+
+    
+}
+
+
+#size {
+    background-size: cover;
+}
+
+    
+}
+.main_footer_link {
+    display: flex;
+    float: left;
+
+}
+
+.collapsible {
+    cursor: pointer;
+    color: black;
+    width: 100%;
+    padding: 18px;
+    border: none;
+    outline: none;
+    font-size: 60px;
+    
+    
+}
+.active, .collapsible:hover {
+    background-color: #ccc;
+  }
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    transition: ease-out;
+}
+.collapsible::after {
+    content: '\02795';
+    float: right;
+    margin-left:5px;
+}
+.active::after {
+    content: "\2796";
+}
+#font_color {
+    color: lightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+}
+#para_color {
+    color:lightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#para_color1 {
+    color: #1dc3c3;
+    background-color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#font_color1 {
+    color: lightgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+
+}
+#para_color2 {
+    color: lightcoral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+#font_color2 {
+    color: lightgrey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+}
+#para_color3 {
+    color: burlywood;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#para_color0 {
+    color: lightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.container {
+    display: flex;
+    margin-bottom: 0;
+}
+.toNhat{
+    width: 80%;
+    margin:auto;
+}
+
+/* h4,h3{
+    opacity: 0;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
