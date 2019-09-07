@@ -1,0 +1,231 @@
+.upper {
+    text-transform: uppercase;
+}
+
+.img_size {
+    width:200px;
+    height:100px;
+}
+/* .color_redEl {
+    background-color: red;
+} */
+/* .color_black {
+    width:100%;
+    height:200px;
+} */
+
+.color_blackEl {
+    margin-bottom: 30px;
+    font-weight: bolder;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 25px;
+    }
+
+.btn {
+    width:120px;
+    text-transform: uppercase;
+    background-color: red;
+    color: white;
+}
+
+
+.typeEl2 {
+    justify-content: space-between;
+    display: flex;
+    flex-flow: row;
+}
+
+
+/* .type {
+    margin-left: 600px;
+    margin-right: 600px;
+} */
+
+#signin {
+    margin-left: 450px;
+    color: white;
+    background-color: red;
+    width:120px;
+    height:25px;
+}
+
+#search_bar {
+    margin-right: 200px;
+    width: 350px;
+}
+
+/* #logo {
+    margin-left: 45%;
+    margin-right: 50%;
+    margin-bottom: 30px;
+} */
+
+
+.marvel_title {
+    margin-top: 100px;
+    margin-bottom: 25px;
+    margin-left: 350px;
+}
+
+.marvelEl {
+    width: 250px;
+}
+
+.marvelEl2 {
+    width: 350px
+}
+
+
+.allthemes{
+    display: flex;
+    flex-flow: row;
+    margin-left: 350px;
+    margin-right: 350px;
+    height: 289px;
+
+    justify-content: space-between;
+}
+.allthemes_show{
+    display: flex;
+    flex-flow: row;
+    width: 64%;
+    margin: auto;
+    height: 309px;
+
+    justify-content: space-between;
+}
+.allthemes_pc{
+    display: flex;
+    flex-flow: row;
+    margin-left: 350px;
+    margin-right: 350px;
+    height: 271px;
+
+    justify-content: space-between;
+}
+
+.allthemes2 {
+    display: flex;
+    flex-flow: column;
+    margin-left: 500px;
+}
+
+.allthemes3 {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    margin-right: 500px;
+}
+.collumm {
+    margin-bottom: 50px;
+}
+
+.theme {
+    height: 180px;
+    width: 250px;
+}
+
+.theme2 {
+    height: 200px;
+    width: 350px;
+}
+
+.row {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between
+}
+
+.link_black{ 
+    color:black;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.web_footer {
+    background-color: black;
+    display: flex;
+    flex-flow: row;
+    width: 100%;
+    color: white;
+    height: 400px;
+}
+
+.img_footer {
+    margin: 155px;
+}
+
+.text_footer {
+    display: flex;
+    flex-flow: column;
+    margin: 155px 50px 50px 50px;
+    font-size: 14px;
+    
+}
+
+.box {
+    /* width: 120px; */
+
+}
+
+
+.small{
+    width:25px;
+    height: 25px;
+}
+
+.follow {
+    display: flex;
+    flex-flow: row;
+    width: 100%;
+    
+}
+
+.space {
+    margin: 8px 8px 8px 0px;
+}
+
+
+
+.date {
+    margin-left: 69%;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+.date_show {
+    margin-left: 69%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+
+
+/* //// thanh tieu de  */
+.typeEl {
+    justify-content: space-around;
+    display: flex;
+    flex-flow: row;
+    width: 100%;
+    height: 25px;
+    background-color: aqua;
+}
+.tieuDe{
+    text-transform: uppercase;
+    background-color: red;
+    color: white;
+    width: 12.5%;
+    text-align: center;
+    border: solid rgb(182, 163, 163) 1px;
+}
+
+
+/* // het thanh tieu de  */
+
+.toNhat{
+    background-image: url(bg_co.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
