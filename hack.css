@@ -34,6 +34,12 @@
     display: flex;
     flex-flow: row;
 }
+.tacgia{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    margin-top:10px;
+
+}
 
 
 /* .type {
@@ -180,8 +186,12 @@
     
 }
 
-.space {
-    margin: 8px 8px 8px 0px;
+.made {
+    font-size:25px;
+    font-family: 'Roboto';
+}
+.space{
+    margin: 8px;
 }
 
 
